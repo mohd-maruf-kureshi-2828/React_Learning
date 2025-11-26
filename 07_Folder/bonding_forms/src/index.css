@@ -1,0 +1,12 @@
+body{
+  background-color: black;
+  color: white;
+}
+form input{
+  margin: 20px;
+  padding: 12px;
+}
+form button{
+  margin: 20px;
+  padding: 12px;
+}
